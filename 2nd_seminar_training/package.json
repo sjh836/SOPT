@@ -1,0 +1,11 @@
+{
+  "name": "2nd_seminar_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "이정훈_training2-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
