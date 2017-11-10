@@ -1,0 +1,15 @@
+{
+  "name": "2nd_seminar_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "이정훈_homework2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "request": "^2.83.0"
+  }
+}
